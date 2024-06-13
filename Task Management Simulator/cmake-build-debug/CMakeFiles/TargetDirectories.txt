@@ -1,0 +1,3 @@
+C:/Users/excalıbur-pc/CLionProjects/cng213a2/cmake-build-debug/CMakeFiles/cng213a2.dir
+C:/Users/excalıbur-pc/CLionProjects/cng213a2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/excalıbur-pc/CLionProjects/cng213a2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
